@@ -1,53 +1,23 @@
-# Hi there, I'm Rabindra Dahal 👋
+# Hi there, I'm Rabindra Dahal! 👋
 
-I am a passionate **Machine Learning & Generative AI Developer** focused on building intelligent applications, RAG pipelines, and full-stack AI solutions. I love bridging the gap between complex AI models and user-friendly web interfaces.
+An aspiring Machine Learning and Generative AI Engineer dedicated to building end-to-end intelligent applications and data-driven solutions. I specialize in designing LLM architectures, implementing RAG pipelines, and deploying robust backend services.
 
----
+## 🚀 About Me
+Highly motivated Machine Learning and Generative AI Engineer with a strong foundation in building full-stack AI applications and data-driven pipelines. Proven expertise in developing end-to-end Large Language Model (LLM) architectures using Retrieval-Augmented Generation (RAG) and vector embeddings, backed by practical experience in deploying scalable backend solutions using FastAPI. Adept at translating complex machine learning theories into functional web applications with Streamlit and engineering robust systems ranging from e-commerce platforms to analytical MATLAB simulations. Demonstrates a continuous commitment to learning and implementing cutting-edge artificial intelligence and software engineering methodologies.
 
-### 🚀 What I Do
-- 🧠 **AI & Machine Learning:** Designing GenAI workflows and Large Language Model (LLM) pipelines.
-- 🔍 **RAG Pipelines:** Architecting Retrieval-Augmented Generation systems with advanced embeddings.
-- ⚡ **Backend Development:** Building fast, scalable APIs and microservices.
-- 💻 **Interactive UIs:** Creating clean frontend dashboards to demonstrate AI capabilities.
+## 🛠️ Technical Skills
+- **Generative AI & LLMs:** Retrieval-Augmented Generation (RAG), Vector Embeddings, LLM Orchestration & Pipelines
+- **Backend Development:** FastAPI, Python, RESTful API Design
+- **Frontend & Prototyping:** Streamlit (Interactive Dashboards & UI Prototyping)
+- **Data Science & ML:** Machine Learning Frameworks, Data Modeling
+- **Scientific Computing:** MATLAB (Simulation & Modeling)
 
----
-
-### 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white) |
-| **AI & Data Science** | ![LLM & GenAI](https://img.shields.io/badge/Gen_AI-🤖-blue?style=for-the-badge) ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-📂-orange?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-📊-green?style=for-the-badge) |
-| **Web Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
-
----
-
-### 📂 Highlighted Projects
-
-*   **[Diet Recommendation LLM RAG System](https://github.com/rabindra-dahal/diet-recommendation-fastapi-streamlit)**
-    *   *Description:* A personalized diet recommendation tool built using an LLM pipeline and RAG architectures.
-    *   *Tech Stack:* FastAPI (Backend) + Streamlit (Frontend) + Python.
-
-*   **[E-Commerce Clothing Store](https://github.com/rabindra-dahal/clothing-store-ecommerce)**
-    *   *Description:* A clean, production-ready backend API for an online retail experience.
-    *   *Tech Stack:* FastAPI + Python.
-
-*   **[Simulation & Modeling Engine](https://github.com/rabindra-dahal/Simulation-and-Modeling-using-Matlab)**
-    *   *Description:* Numerical analysis, physical system simulation, and data modeling.
-    *   *Tech Stack:* MATLAB.
+## 📌 Featured Projects
+- **[diet-recommendation-fastapi-streamlit](https://github.com/rabindra-dahal/diet-recommendation-fastapi-streamlit)** - Diet Recommendation system featuring an LLM pipeline with embedding RAG capabilities. Powered by FastAPI on the backend and Streamlit for the user interface.
+- **[diet-recommendation-llm-rag](https://github.com/rabindra-dahal/diet-recommendation-llm-rag)** - Core implementation of the Diet Recommendation system focusing entirely on the LLM pipeline and RAG embedding architecture.
+- **[clothing-store-ecommerce](https://github.com/rabindra-dahal/clothing-store-ecommerce)** - A full-fledged e-commerce application platform built using FastAPI.
+- **[ml-gen-ai-learn](https://github.com/rabindra-dahal/ml-gen-ai-learn)** & **[ml-learn](https://github.com/rabindra-dahal/ml-learn)** - Dedicated repositories tracking my continuous journey, experimentation, and growth in Machine Learning and GenAI.
+- **[Simulation-and-Modeling-using-Matlab](https://github.com/rabindra-dahal/Simulation-and-Modeling-using-Matlab)** - A collection of computational systems and simulation projects developed using MATLAB.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabindra-dahal&show_icons=true&theme=radical&count_private=true" alt="Rabindra's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindra-dahal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Let's Connect!
-- 💬 Ask me about **Generative AI, FastAPI, and RAG architectures**.
-- 📫 Reach out to me via my [GitHub Profile](https://github.com/rabindra-dahal).
+📫 **How to reach me:** Feel free to explore my repositories or connect with me if you'd like to collaborate on exciting AI/ML projects!
