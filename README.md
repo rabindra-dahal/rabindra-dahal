@@ -38,7 +38,7 @@ An overview of the systems, architectures, and neural pipelines I have actively 
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [in/rabindra-dahal](https://linkedin.com)
+*   **LinkedIn:** [in/rabindra-dahal](https://linkedin.com/in/rabindra-dahal)
 *   **GitHub:** [@rabindra-dahal](https://github.com/rabindra-dahal)
 
 *Feel free to browse my codebases or reach out if you're interested in building highly optimized backend systems, microservices, or complex Generative AI pipelines!*
