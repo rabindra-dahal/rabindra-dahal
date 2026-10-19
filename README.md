@@ -6,7 +6,7 @@
 ---
 
 ### Featured Projects
-An overview of the systems, architectures, and neural pipelines I have actively designed, optimized, and pushed over the last two months, categorized by their engineering domains:
+An overview of the systems, architectures, and neural pipelines I have actively designed, optimized, and categorized by their engineering domains:
 
 #### 🤖 Generative AI & Large Language Model (LLM) Systems
 *   **[diet-recommendation-fastapi-streamlit](https://github.com)**: A full-stack health intelligence ecosystem. Features an advanced LLM pipeline utilizing Retrieval-Augmented Generation (RAG) and dense vector embeddings, backed by a FastAPI core and interactive Streamlit UI.
