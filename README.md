@@ -1,16 +1,27 @@
 # Hi there, I'm Rabindra Dahal! 👋
 
-**Aspiring Machine Learning & Generative AI Engineer**  
-🚀 Architecting production-grade LLM & RAG pipelines, engineering high-performance backend microservices from scratch, and building data-driven systems.
+**Aspiring Software Engineer**  
+I am a results-driven Software & Systems Integration Engineer with over 4 years of experience specializing in architecting microservices, building clean RESTful APIs, and deploying distributed backend architectures. I bring a strong record of writing highly maintainable codebases and connecting complex enterprise endpoints. 
 
----
+My current engineering focus bridges foundational systems integration with cutting-edge intelligent infrastructure. I specialize in designing Large Language Model (LLM) workflows utilizing Retrieval-Augmented Generation (RAG) models and vector databases, ensuring that modern AI systems are scalable, efficient, and securely integrated into enterprise application layers.
 
-### 🛠 Tech Stack Matrix
+At Malwarebytes, I focused on designing and deploying critical security product integrations using Python (FastAPI, Django, Flask) and Node.js natively across AWS and Azure cloud stacks. Prior to this, my background in fintech at Swift Technology reinforced my deep-rooted commitment to transactional integrity, database management, and robust API structures. I continuously expand my engineering baseline to match modern industry demands, driving technical growth across cloud containerization, Linux systems administration, and production-grade machine learning pipelines.
 
-*   **Languages:** Python, SQL, Bash Shell, MATLAB
-*   **Frameworks & Libraries:** FastAPI, Streamlit, PyTorch, Scikit-Learn, Pydantic AI
-*   **Infrastructure & Deployment:** Docker, Docker Compose, Git Architecture, GitHub Actions (CI/CD Pipelines)
-*   **Concepts:** Retrieval-Augmented Generation (RAG), Vector Embeddings, Custom Transformer Architecture, Async ASGI Pipelines, Computational System Modeling
+💡 Core Technical Competencies:
+
+• Generative AI & LLMs: Retrieval-Augmented Generation (RAG), Vector Embeddings, LLM Orchestration & Pipelines
+
+• Backend Engineering: Python, FastAPI, Django, Flask, ASP.NET C#, Node.js, Uvicorn
+
+• Integrations & Security: SIEM, SOAR, RESTful API Web Services, Postman, Banking & Remittance APIs
+
+• Databases & DevOps: PostgreSQL, SQL Server, Docker, Git, Terraform
+
+• Advanced Architecture: Microservices, Cloud Stacks (AWS, Azure), Data Analytics & Modeling
+
+Outside of engineering, you can find me traveling to new destinations with friends, streaming the latest sci-fi series, or spending time with family.
+
+Always open to networking regarding technical challenges, GenAI workflows, robust API structures, and backend integrations!
 
 ---
 
