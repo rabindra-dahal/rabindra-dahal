@@ -27,6 +27,6 @@ Always open to networking regarding technical challenges, GenAI workflows, robus
 
 ### 📫 Connect with Me
 *   **LinkedIn:** [in/rabindra-dahal](https://linkedin.com/in/rabindra-dahal)
-*   **GitHub:** [@rabindra-dahal](https://github.com/rabindra-dahal)
+*   **GitHub:** [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabindra-dahal)
 
 *Feel free to browse my codebases or reach out if you're interested in building highly optimized backend systems, microservices, or complex Generative AI pipelines!*
