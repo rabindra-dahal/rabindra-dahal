@@ -26,7 +26,7 @@ Always open to networking regarding technical challenges, GenAI workflows, robus
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com/in/rabindra-dahal)   [![LinkedIn](https://shields.io)](https://linkedin.com)
+*   **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com/in/rabindra-dahal)  ![LinkedIn](https://img.shields.io/badge/linkedin-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 *   **GitHub:** [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabindra-dahal)
 
