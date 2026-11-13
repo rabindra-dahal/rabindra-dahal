@@ -15,7 +15,7 @@ At Malwarebytes, I focused on designing and deploying critical security product 
 
 • Integrations & Security: SIEM, SOAR, RESTful API Web Services, Postman, Banking & Remittance APIs
 
-• Databases & DevOps: PostgreSQL, SQL Server, Docker, Git, Terraform
+• Databases & DevOps: PostgreSQL, MYSQL, Docker, Git
 
 • Advanced Architecture: Microservices, Cloud Stacks (AWS, Azure), Data Analytics & Modeling
 
