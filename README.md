@@ -11,7 +11,7 @@ At Malwarebytes, I focused on designing and deploying critical security product 
 
 • Generative AI & LLMs: Retrieval-Augmented Generation (RAG), Vector Embeddings, LLM Orchestration & Pipelines
 
-• Backend Engineering: Python, FastAPI, Django, Flask, ASP.NET C#, Node.js, Uvicorn
+• Backend Engineering: Python, FastAPI, Django, Flask, Node.js, Uvicorn
 
 • Integrations & Security: SIEM, SOAR, RESTful API Web Services, Postman, Banking & Remittance APIs
 
